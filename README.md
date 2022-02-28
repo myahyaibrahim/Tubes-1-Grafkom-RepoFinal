@@ -1,26 +1,21 @@
-## STARTING OFF:
+## IF3260 Grafika Komputer - 2D Web Based CAD (Computer-Aided Design)
 
-Make sure you have npm installed.
-Run:
+Pastikan NPM terinstall
+Jalankan:
+
 ```
 npm install http-server -g
 ```
 
-Run:
+Jalankan:
+
 ```
 http-server
 ```
 
-View at: http://localhost:8080/
+Buka: http://localhost:8080/
 
-* NOTE: moved signals out of libs folder.
-  * Running from main directory instead inside this directory.
+## Owner
 
-## CONCEPTS:
-
-* Drawing Shapes
-  * dynamically drawing lines, triangles based on mouse input
-
-## RESOURCES:
-
-* https://github.com/davidwparker/programmingtil-webgl/tree/master/0025-drawing-shapes-1
+Mohammad Yahya Ibrahim
+13519091
